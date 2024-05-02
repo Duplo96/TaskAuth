@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d2K9VmkeGIeVOXpo+jFAKDZusf0gyTvY6ZlQ7fC3MCSv1/7RMmTmmrOZUhHV1O2fve9gJASKD6T5TB6jiw5+vg==",
+  "dgSpecHash": "7gTzgSF0zBrsZNPdm/sk+plxp0SzO9ozL8RHWubUB0juRuSNAmNHCmftor6SkQqoPQ2BxGOsjzl2wML7hS7eYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\titon\\Desktop\\Task_Auth\\Task_Auth\\Task_Auth.csproj",
+  "projectFilePath": "C:\\Users\\titon\\Desktop\\Task_Auth\\TaskAuth\\Task_Auth\\Task_Auth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\titon\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\titon\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
